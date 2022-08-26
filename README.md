@@ -1,4 +1,4 @@
-# Hi, I’m Owen Lister. Currently a computer science student. My repositories on GitHub will demonstrate my coding competence and skills, and some of my past work.
+# Hi, I’m Owen Lister, a computer science student at the University of York. My repositories on GitHub will demonstrate my coding competence and skills, and some of my past work.
 
 Thank you for looking at my repository
 
