@@ -1,6 +1,8 @@
-# Hi, I’m Owen Lister, a computer science student at the University of York. My repositories on GitHub will demonstrate my coding competence and skills, and some of my past work.
+# Hi, I’m Owen Lister, a 2nd year MEng Computer Science with Cyber Security (with a year in industry) student at the University of York.
 
-Thank you for looking at my repositories.
+I'm interested in ethical hacking, penetration testing and red teaming but also cyber security in general.
+
+Thank you for looking at my repositories!
 
 <!---
 OwenLister-GitHub/OwenLister-GitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
